@@ -1,0 +1,84 @@
+h1{
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+
+}
+#a{
+    border-style: solid;
+    border-color:	rgb(255, 0, 0);
+    width:  200px;
+    height: 500px;
+    background-color:	rgb(255, 0, 0);
+    margin-left: 30px;
+    margin-top: 50px;
+    }
+
+#b{
+    border-style: solid;
+    border-color:rgb(255, 165, 0) ;
+    width:  200px;
+    height: 500px;
+    background-color: rgb(255, 165, 0);
+    margin-left: 260px;
+    margin-top: -506px;
+    
+        }
+
+
+ #c{
+    border-style: solid;
+    border-color :rgb(255, 255, 0);
+    width:  200px;
+    height: 500px;
+    background-color: rgb(255, 255, 0);
+    margin-left: 490px;
+    margin-top: -506px;
+   
+            }
+
+
+
+ #d{
+    border-style: solid;
+    border-color :	rgb(0, 128, 0);
+    width:  200px;
+    height: 500px;
+    background-color:	rgb(0, 128, 0) ;
+    margin-left: 720px;
+    margin-top: -506px;
+
+ }
+ 
+ #e{
+    border-style: solid;
+    border-color :	rgb(0, 0, 255);
+    width:  200px;
+    height: 500px;
+    background-color:	rgb(0, 0, 255) ;
+    margin-left: 950px;
+    margin-top: -506px;
+
+ }
+
+ #f{
+    border-style: solid;
+    border-color :	rgb(75, 0, 130);
+    width:  200px;
+    height: 500px;
+    background-color:	rgb(75, 0, 130)  ;
+    margin-left: 1180px;
+    margin-top: -506px;
+
+ }
+
+ 
+ #g{
+    border-style: solid;
+    border-color :	rgb(238, 130, 238);
+    width:  200px;
+    height: 500px;
+    background-color:	rgb(238, 130, 238) ;
+    margin-left: 1410px;
+    margin-top: -506px;
+
+ }

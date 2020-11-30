@@ -1,0 +1,49 @@
+/*tagname or id or classname{
+    property:value; */
+    body{
+        background-image: url("kb.jpg");
+        background-size: cover;
+        
+    }
+h1{
+    text-align: center;
+
+    color: rgb(225, 235, 38) ;
+}
+#one{
+    color: red;
+}
+img {
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin: center;
+  }
+
+
+div{
+    border-style:  solid;
+    border-color: black;
+    background-color: yellow;
+    border-width: 5px;
+    color: blue;
+    width: 10%;
+    margin: auto;
+ 
+    }
+    #pus{
+        border-style:  solid;
+        border-color:blue;
+        background-color: pink;
+        border-width: 5px;
+        color: black;
+        width: 10%;
+        margin: auto;
+
+    }
+    .team{
+        border-color: rebeccapurple;
+        border-style: solid;
+        background-color: green;
+    }
